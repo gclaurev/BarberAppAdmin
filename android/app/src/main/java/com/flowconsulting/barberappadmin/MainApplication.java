@@ -1,4 +1,4 @@
-package com.barberapp;
+package com.flowconsulting.barberappadmin;
 
 import android.app.Application;
 import android.content.Context;

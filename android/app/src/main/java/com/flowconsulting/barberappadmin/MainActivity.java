@@ -1,4 +1,4 @@
-package com.barberapp;
+package com.flowconsulting.barberappadmin;
 
 import com.facebook.react.ReactActivity;
 
